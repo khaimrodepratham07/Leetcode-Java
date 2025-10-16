@@ -1,3 +1,5 @@
+//ECHO CLIENT
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -52,7 +54,7 @@ public class EchoClient {
     }
 }
 
-
+//ECHO SERVER
 
 import java.io.BufferedReader;
 import java.io.IOException;
